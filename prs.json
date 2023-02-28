@@ -1,0 +1,5147 @@
+{
+  "regionList": [
+    "na",
+    "eu",
+    "aus",
+    "sea"
+  ],
+  "na": {
+    "events": [
+      {
+        "slug": "tournament/brawlball-monthly/event/december-bracket-na",
+        "multiplier": 0.5,
+        "event": {
+          "slug": "tournament/brawlball-monthly/event/december-bracket-na",
+          "name": "December bracket NA",
+          "startAt": 1672434000,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "TORT COHORT SPORT RESORT PLUS TYLA",
+                  "participants": [
+                    {
+                      "gamerTag": "krai",
+                      "user": {
+                        "discriminator": "ed983665"
+                      }
+                    },
+                    {
+                      "gamerTag": "TylactosAss",
+                      "user": {
+                        "discriminator": "b2ccaa9f"
+                      }
+                    },
+                    {
+                      "gamerTag": "Anti Jedi",
+                      "user": {
+                        "discriminator": "e9f481b5"
+                      }
+                    },
+                    {
+                      "gamerTag": "Goldenboi",
+                      "user": {
+                        "discriminator": "d57c309c"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "CasmoD!",
+                  "participants": [
+                    {
+                      "gamerTag": "Candy!",
+                      "user": {
+                        "discriminator": "926b80e4"
+                      }
+                    },
+                    {
+                      "gamerTag": "megD",
+                      "user": {
+                        "discriminator": "b94b3e72"
+                      }
+                    },
+                    {
+                      "gamerTag": "Asmodie",
+                      "user": {
+                        "discriminator": "c6264177"
+                      }
+                    },
+                    {
+                      "gamerTag": "TruckStopBurrito",
+                      "user": {
+                        "discriminator": "11b3c753"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "European Balls.",
+                  "participants": [
+                    {
+                      "gamerTag": "Hichou",
+                      "user": {
+                        "discriminator": "8097f550"
+                      }
+                    },
+                    {
+                      "gamerTag": "Bob",
+                      "user": {
+                        "discriminator": "022f1709"
+                      }
+                    },
+                    {
+                      "gamerTag": "Flexy",
+                      "user": {
+                        "discriminator": "7537deb8"
+                      }
+                    },
+                    {
+                      "gamerTag": "Thaa15",
+                      "user": {
+                        "discriminator": "adb0a838"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "Astru's Servants",
+                  "participants": [
+                    {
+                      "gamerTag": "Styleken",
+                      "user": {
+                        "discriminator": "01dc7eb6"
+                      }
+                    },
+                    {
+                      "gamerTag": "Astru",
+                      "user": {
+                        "discriminator": "da112d0d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kevin1185",
+                      "user": {
+                        "discriminator": "c2e270f0"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Klein Gang",
+                  "participants": [
+                    {
+                      "gamerTag": "zteady",
+                      "user": {
+                        "discriminator": "1a066b28"
+                      }
+                    },
+                    {
+                      "gamerTag": "Cheque",
+                      "user": {
+                        "discriminator": "52370b38"
+                      }
+                    },
+                    {
+                      "gamerTag": "Klein",
+                      "user": {
+                        "discriminator": "21fe4a61"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "slug": "tournament/brawlball-monthly/event/november-bracket-na",
+        "multiplier": 0.5,
+        "event": {
+          "slug": "tournament/brawlball-monthly/event/november-bracket-na",
+          "name": "November bracket NA",
+          "startAt": 1669582800,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "TORT COHORT SPORT RESORT ESPORTS",
+                  "participants": [
+                    {
+                      "gamerTag": "Candy!",
+                      "user": {
+                        "discriminator": "926b80e4"
+                      }
+                    },
+                    {
+                      "gamerTag": "Pawapow",
+                      "user": {
+                        "discriminator": "f8fd9201"
+                      }
+                    },
+                    {
+                      "gamerTag": "Anti Jedi",
+                      "user": {
+                        "discriminator": "e9f481b5"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "Two Studs and Z Runner",
+                  "participants": [
+                    {
+                      "gamerTag": "TylactosAss",
+                      "user": {
+                        "discriminator": "b2ccaa9f"
+                      }
+                    },
+                    {
+                      "gamerTag": "zteady",
+                      "user": {
+                        "discriminator": "1a066b28"
+                      }
+                    },
+                    {
+                      "gamerTag": "Goldenboi",
+                      "user": {
+                        "discriminator": "d57c309c"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "Hichou's Henchmen",
+                  "participants": [
+                    {
+                      "gamerTag": "Hichou",
+                      "user": {
+                        "discriminator": "8097f550"
+                      }
+                    },
+                    {
+                      "gamerTag": "Bob",
+                      "user": {
+                        "discriminator": "022f1709"
+                      }
+                    },
+                    {
+                      "gamerTag": "Flexy",
+                      "user": {
+                        "discriminator": "7537deb8"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "Chimichangas",
+                  "participants": [
+                    {
+                      "gamerTag": "Klein",
+                      "user": {
+                        "discriminator": "21fe4a61"
+                      }
+                    },
+                    {
+                      "gamerTag": "Origami",
+                      "user": {
+                        "discriminator": "2bbc1304"
+                      }
+                    },
+                    {
+                      "gamerTag": "Akumiki",
+                      "user": {
+                        "discriminator": "aaf10f22"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Joeydolphin / Deegs#7437 / Cheese#9241",
+                  "participants": [
+                    {
+                      "gamerTag": "Joeydolphin",
+                      "user": {
+                        "discriminator": "dae5a4da"
+                      }
+                    },
+                    {
+                      "gamerTag": "Deegs#7437",
+                      "user": {
+                        "discriminator": "59d0c691"
+                      }
+                    },
+                    {
+                      "gamerTag": "Cheese#9241",
+                      "user": {
+                        "discriminator": "395d6199"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Agüita de coco",
+                  "participants": [
+                    {
+                      "gamerTag": "Drako1809",
+                      "user": {
+                        "discriminator": "b0b412aa"
+                      }
+                    },
+                    {
+                      "gamerTag": "JUAN CRUZ",
+                      "user": {
+                        "discriminator": "5af0d73b"
+                      }
+                    },
+                    {
+                      "gamerTag": "Anime_Master14",
+                      "user": {
+                        "discriminator": "0a7c8b41"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "slug": "tournament/brawlball-winter-championship-2023/event/na-brawlball-winter-championship",
+        "multiplier": 1,
+        "event": {
+          "slug": "tournament/brawlball-winter-championship-2023/event/na-brawlball-winter-championship",
+          "name": "NA Brawlball Winter Championship",
+          "startAt": 1675551600,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "Pawapow / Anti Jedi / krai",
+                  "participants": [
+                    {
+                      "gamerTag": "WHITETOWN",
+                      "user": {
+                        "discriminator": "36912881"
+                      }
+                    },
+                    {
+                      "gamerTag": "krai",
+                      "user": {
+                        "discriminator": "ed983665"
+                      }
+                    },
+                    {
+                      "gamerTag": "Pawapow",
+                      "user": {
+                        "discriminator": "f8fd9201"
+                      }
+                    },
+                    {
+                      "gamerTag": "Anti Jedi",
+                      "user": {
+                        "discriminator": "e9f481b5"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "European Balls.",
+                  "participants": [
+                    {
+                      "gamerTag": "Hichou",
+                      "user": {
+                        "discriminator": "8097f550"
+                      }
+                    },
+                    {
+                      "gamerTag": "Bob",
+                      "user": {
+                        "discriminator": "022f1709"
+                      }
+                    },
+                    {
+                      "gamerTag": "Flexy",
+                      "user": {
+                        "discriminator": "7537deb8"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "Two Studs and Z Runner",
+                  "participants": [
+                    {
+                      "gamerTag": "zteady",
+                      "user": {
+                        "discriminator": "1a066b28"
+                      }
+                    },
+                    {
+                      "gamerTag": "Marshie",
+                      "user": {
+                        "discriminator": "d0199202"
+                      }
+                    },
+                    {
+                      "gamerTag": "Goldenboi",
+                      "user": {
+                        "discriminator": "d57c309c"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "BoKlito",
+                  "participants": [
+                    {
+                      "gamerTag": "Bonobo",
+                      "user": {
+                        "discriminator": "c08f08e4"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kiritoo",
+                      "user": {
+                        "discriminator": "6875ee90"
+                      }
+                    },
+                    {
+                      "gamerTag": "Klein",
+                      "user": {
+                        "discriminator": "21fe4a61"
+                      }
+                    },
+                    {
+                      "gamerTag": "Thaa15",
+                      "user": {
+                        "discriminator": "adb0a838"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Fuck Brawlhalla",
+                  "participants": [
+                    {
+                      "gamerTag": "Cman",
+                      "user": {
+                        "discriminator": "01238891"
+                      }
+                    },
+                    {
+                      "gamerTag": "Nabeel",
+                      "user": {
+                        "discriminator": "1dffe3d1"
+                      }
+                    },
+                    {
+                      "gamerTag": "Nekozei",
+                      "user": {
+                        "discriminator": "851dd8fa"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "slug": "tournament/our-style-brawlball-summer-championships-2022/event/na-summer-championship-brawlball-3v3",
+        "multiplier": 1,
+        "event": {
+          "slug": "tournament/our-style-brawlball-summer-championships-2022/event/na-summer-championship-brawlball-3v3",
+          "name": "NA Summer Championship Brawlball 3v3",
+          "startAt": 1657490400,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "Pawapow / DougYumiDome / Anti Jedi",
+                  "participants": [
+                    {
+                      "gamerTag": "Yumi",
+                      "user": {
+                        "discriminator": "926b80e4"
+                      }
+                    },
+                    {
+                      "gamerTag": "Pawapow",
+                      "user": {
+                        "discriminator": "f8fd9201"
+                      }
+                    },
+                    {
+                      "gamerTag": "Anti Jedi",
+                      "user": {
+                        "discriminator": "e9f481b5"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "Goldenboi / AnimeMaster / Chika Fujiwara",
+                  "participants": [
+                    {
+                      "gamerTag": "Goldenboi",
+                      "user": {
+                        "discriminator": "d57c309c"
+                      }
+                    },
+                    {
+                      "gamerTag": "AnimeMaster",
+                      "user": {
+                        "discriminator": "74a82e58"
+                      }
+                    },
+                    {
+                      "gamerTag": "Chika Fujiwara",
+                      "user": {
+                        "discriminator": "c9df478a"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "TylactosAss / Quil61 / Bio",
+                  "participants": [
+                    {
+                      "gamerTag": "TylactosAss",
+                      "user": {
+                        "discriminator": "b2ccaa9f"
+                      }
+                    },
+                    {
+                      "gamerTag": "Quil61",
+                      "user": {
+                        "discriminator": "ef2a1637"
+                      }
+                    },
+                    {
+                      "gamerTag": "Bio",
+                      "user": {
+                        "discriminator": "2bb056ed"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "Zteady191 / Kalilswag123 / hawks1423",
+                  "participants": [
+                    {
+                      "gamerTag": "Zteady191",
+                      "user": {
+                        "discriminator": "e8b96218"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kalilswag123",
+                      "user": {
+                        "discriminator": "213d510f"
+                      }
+                    },
+                    {
+                      "gamerTag": "hawks1423",
+                      "user": {
+                        "discriminator": "983e8c34"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Drako1809 / JUAN CRUZ / THEJOSE-23 / Noobboy45",
+                  "participants": [
+                    {
+                      "gamerTag": "Drako1809",
+                      "user": {
+                        "discriminator": "b0b412aa"
+                      }
+                    },
+                    {
+                      "gamerTag": "JUAN CRUZ",
+                      "user": {
+                        "discriminator": "5af0d73b"
+                      }
+                    },
+                    {
+                      "gamerTag": "THEJOSE-23",
+                      "user": {
+                        "discriminator": "3bfcd0f8"
+                      }
+                    },
+                    {
+                      "gamerTag": "Noobboy45",
+                      "user": {
+                        "discriminator": "8f55378a"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "!Lierr / paris / DSCL11",
+                  "participants": [
+                    {
+                      "gamerTag": "paris",
+                      "user": {
+                        "discriminator": "bfdddc6b"
+                      }
+                    },
+                    {
+                      "gamerTag": "DSCL11",
+                      "user": {
+                        "discriminator": "e0e8fc1d"
+                      }
+                    },
+                    {
+                      "gamerTag": "!Lierr",
+                      "user": {
+                        "discriminator": "1bad5150"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 7,
+                "entrant": {
+                  "name": "Monkey D. Zoro / Monkey D. Sanji / Monkey D.Luffy",
+                  "participants": [
+                    {
+                      "gamerTag": "Monkey D. Sanji",
+                      "user": {
+                        "discriminator": "7672ef35"
+                      }
+                    },
+                    {
+                      "gamerTag": "Monkey D. Zoro",
+                      "user": {
+                        "discriminator": "d7543583"
+                      }
+                    },
+                    {
+                      "gamerTag": "Monkey D.Luffy",
+                      "user": {
+                        "discriminator": "a5e53569"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 7,
+                "entrant": {
+                  "name": "Winged_Shell / M.Fatal / AsusAdutora / ColiKong",
+                  "participants": [
+                    {
+                      "gamerTag": "Winged_Shell",
+                      "user": {
+                        "discriminator": "64ef9b56"
+                      }
+                    },
+                    {
+                      "gamerTag": "M.Fatal",
+                      "user": {
+                        "discriminator": "2f6e678f"
+                      }
+                    },
+                    {
+                      "gamerTag": "AsusAdutora",
+                      "user": {
+                        "discriminator": "106029b7"
+                      }
+                    },
+                    {
+                      "gamerTag": "ColiKong",
+                      "user": {
+                        "discriminator": "e0f9aa37"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "Whazly / Temari / Siralon",
+                  "participants": [
+                    {
+                      "gamerTag": "Whazly",
+                      "user": {
+                        "discriminator": "1f2f80f8"
+                      }
+                    },
+                    {
+                      "gamerTag": "Siralon",
+                      "user": {
+                        "discriminator": "f1f4b032"
+                      }
+                    },
+                    {
+                      "gamerTag": "Temari",
+                      "user": {
+                        "discriminator": "038d5ed2"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "Izdat_vision / ConfusedYumiko / danstokes100",
+                  "participants": [
+                    {
+                      "gamerTag": "danstokes100",
+                      "user": {
+                        "discriminator": "72202de6"
+                      }
+                    },
+                    {
+                      "gamerTag": "ConfusedYumiko",
+                      "user": {
+                        "discriminator": "3fd55797"
+                      }
+                    },
+                    {
+                      "gamerTag": "Izdat_vision",
+                      "user": {
+                        "discriminator": "d96f6b6a"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "TexasTate / ShreksSpermCell / Zenfrom63rd / CreamyPie",
+                  "participants": [
+                    {
+                      "gamerTag": "CreamyPie",
+                      "user": {
+                        "discriminator": "7f2418e2"
+                      }
+                    },
+                    {
+                      "gamerTag": "Zenfrom63rd",
+                      "user": {
+                        "discriminator": "41851750"
+                      }
+                    },
+                    {
+                      "gamerTag": "ShreksSpermCell",
+                      "user": {
+                        "discriminator": "bc2eb314"
+                      }
+                    },
+                    {
+                      "gamerTag": "TexasTate",
+                      "user": {
+                        "discriminator": "fcb490e6"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "Marcus Xd / Jose The-Game / Choco_Boy / Taokaka's simp",
+                  "participants": [
+                    {
+                      "gamerTag": "Jose The-Game",
+                      "user": {
+                        "discriminator": "d257bb71"
+                      }
+                    },
+                    {
+                      "gamerTag": "Marcus Xd",
+                      "user": {
+                        "discriminator": "239a6228"
+                      }
+                    },
+                    {
+                      "gamerTag": "Choco_Boy",
+                      "user": {
+                        "discriminator": "d7cc39db"
+                      }
+                    },
+                    {
+                      "gamerTag": "Taokaka's simp",
+                      "user": {
+                        "discriminator": "0cc76729"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 13,
+                "entrant": {
+                  "name": "DrivingArrow587 / MiniDino / Chuyin",
+                  "participants": [
+                    {
+                      "gamerTag": "DrivingArrow587",
+                      "user": {
+                        "discriminator": "fae62cda"
+                      }
+                    },
+                    {
+                      "gamerTag": "Chuyin",
+                      "user": {
+                        "discriminator": "c8644758"
+                      }
+                    },
+                    {
+                      "gamerTag": "MiniDino",
+                      "user": {
+                        "discriminator": "5b2588b1"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 13,
+                "entrant": {
+                  "name": "TylinWYD / Birdy / Dioxide",
+                  "participants": [
+                    {
+                      "gamerTag": "TylinWYD",
+                      "user": {
+                        "discriminator": "4582e85d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Birdy",
+                      "user": {
+                        "discriminator": "245bc32f"
+                      }
+                    },
+                    {
+                      "gamerTag": "Dioxide",
+                      "user": {
+                        "discriminator": "ce7d2b6d"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 13,
+                "entrant": {
+                  "name": "FredSaurus / Rafikii / Kamdok",
+                  "participants": [
+                    {
+                      "gamerTag": "FredSaurus",
+                      "user": {
+                        "discriminator": "42fdfe68"
+                      }
+                    },
+                    {
+                      "gamerTag": "Rafikii",
+                      "user": {
+                        "discriminator": "b065ff7d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kamdok",
+                      "user": {
+                        "discriminator": "856f3085"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 13,
+                "entrant": {
+                  "name": "Jessica-Ugu / CronoBH / ChidoMauster",
+                  "participants": [
+                    {
+                      "gamerTag": "CronoBH",
+                      "user": {
+                        "discriminator": "41433d89"
+                      }
+                    },
+                    {
+                      "gamerTag": "Jessica-Ugu",
+                      "user": {
+                        "discriminator": "0126cf6a"
+                      }
+                    },
+                    {
+                      "gamerTag": "ChidoMauster",
+                      "user": {
+                        "discriminator": "ea725dd7"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "standings": {
+      "36912881": {
+        "name": "WHITETOWN",
+        "points": 32,
+        "t1": 1,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "41851750": {
+        "name": "Zenfrom63rd",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "ids": [
+        "e9f481b5",
+        "d57c309c",
+        "8097f550",
+        "022f1709",
+        "7537deb8",
+        "1a066b28",
+        "f8fd9201",
+        "21fe4a61",
+        "ed983665",
+        "adb0a838",
+        "926b80e4",
+        "b2ccaa9f",
+        "36912881",
+        "d0199202",
+        "c08f08e4",
+        "6875ee90",
+        "01238891",
+        "1dffe3d1",
+        "851dd8fa",
+        "b0b412aa",
+        "5af0d73b",
+        "b94b3e72",
+        "c6264177",
+        "11b3c753",
+        "01dc7eb6",
+        "da112d0d",
+        "c2e270f0",
+        "52370b38",
+        "2bbc1304",
+        "aaf10f22",
+        "dae5a4da",
+        "59d0c691",
+        "395d6199",
+        "0a7c8b41",
+        "74a82e58",
+        "c9df478a",
+        "ef2a1637",
+        "2bb056ed",
+        "e8b96218",
+        "213d510f",
+        "983e8c34",
+        "3bfcd0f8",
+        "8f55378a",
+        "bfdddc6b",
+        "e0e8fc1d",
+        "1bad5150",
+        "7672ef35",
+        "d7543583",
+        "a5e53569",
+        "64ef9b56",
+        "2f6e678f",
+        "106029b7",
+        "e0f9aa37",
+        "1f2f80f8",
+        "f1f4b032",
+        "038d5ed2",
+        "72202de6",
+        "3fd55797",
+        "d96f6b6a",
+        "7f2418e2",
+        "41851750",
+        "bc2eb314",
+        "fcb490e6",
+        "d257bb71",
+        "239a6228",
+        "d7cc39db",
+        "0cc76729",
+        "fae62cda",
+        "c8644758",
+        "5b2588b1",
+        "4582e85d",
+        "245bc32f",
+        "ce7d2b6d",
+        "42fdfe68",
+        "b065ff7d",
+        "856f3085",
+        "41433d89",
+        "0126cf6a",
+        "ea725dd7"
+      ],
+      "ed983665": {
+        "name": "krai",
+        "points": 46.07555555555555,
+        "t1": 2,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "b2ccaa9f": {
+        "name": "TylactosAss",
+        "points": 35.10208333333333,
+        "t1": 1,
+        "t2": 1,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "e9f481b5": {
+        "name": "Anti Jedi",
+        "points": 68.09333333333333,
+        "t1": 4,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "d57c309c": {
+        "name": "Goldenboi",
+        "points": 65.40527777777778,
+        "t1": 1,
+        "t2": 2,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "926b80e4": {
+        "name": "Candy!",
+        "points": 35.65347222222222,
+        "t1": 2,
+        "t2": 1,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "b94b3e72": {
+        "name": "megD",
+        "points": 13.635694444444443,
+        "t1": 0,
+        "t2": 1,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "c6264177": {
+        "name": "Asmodie",
+        "points": 13.635694444444443,
+        "t1": 0,
+        "t2": 1,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "11b3c753": {
+        "name": "TruckStopBurrito",
+        "points": 13.635694444444443,
+        "t1": 0,
+        "t2": 1,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "8097f550": {
+        "name": "Hichou",
+        "points": 55.74166666666667,
+        "t1": 0,
+        "t2": 1,
+        "t3": 2,
+        "t8": 0,
+        "t16": 0
+      },
+      "022f1709": {
+        "name": "Bob",
+        "points": 55.74166666666667,
+        "t1": 0,
+        "t2": 1,
+        "t3": 2,
+        "t8": 0,
+        "t16": 0
+      },
+      "7537deb8": {
+        "name": "Flexy",
+        "points": 55.74166666666667,
+        "t1": 0,
+        "t2": 1,
+        "t3": 2,
+        "t8": 0,
+        "t16": 0
+      },
+      "adb0a838": {
+        "name": "Thaa15",
+        "points": 42.19583333333333,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 1,
+        "t16": 0
+      },
+      "01dc7eb6": {
+        "name": "Styleken",
+        "points": 12.755972222222221,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "da112d0d": {
+        "name": "Astru",
+        "points": 12.755972222222221,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "c2e270f0": {
+        "name": "Kevin1185",
+        "points": 12.755972222222221,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "1a066b28": {
+        "name": "zteady",
+        "points": 54.246805555555554,
+        "t1": 0,
+        "t2": 1,
+        "t3": 1,
+        "t8": 1,
+        "t16": 0
+      },
+      "52370b38": {
+        "name": "Cheque",
+        "points": 12.31611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "21fe4a61": {
+        "name": "Klein",
+        "points": 52.47708333333333,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 3,
+        "t16": 0
+      },
+      "f8fd9201": {
+        "name": "Pawapow",
+        "points": 54.01777777777778,
+        "t1": 3,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "2bbc1304": {
+        "name": "Origami",
+        "points": 11.160972222222222,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "aaf10f22": {
+        "name": "Akumiki",
+        "points": 11.160972222222222,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "dae5a4da": {
+        "name": "Joeydolphin",
+        "points": 10.77611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "59d0c691": {
+        "name": "Deegs#7437",
+        "points": 10.77611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "395d6199": {
+        "name": "Cheese#9241",
+        "points": 10.77611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "b0b412aa": {
+        "name": "Drako1809",
+        "points": 19.265555555555554,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 2,
+        "t16": 0
+      },
+      "5af0d73b": {
+        "name": "JUAN CRUZ",
+        "points": 19.265555555555554,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 2,
+        "t16": 0
+      },
+      "0a7c8b41": {
+        "name": "Anime_Master14",
+        "points": 10.77611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "d0199202": {
+        "name": "Marshie",
+        "points": 30,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "c08f08e4": {
+        "name": "Bonobo",
+        "points": 29,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "6875ee90": {
+        "name": "Kiritoo",
+        "points": 29,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "01238891": {
+        "name": "Cman",
+        "points": 28,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "1dffe3d1": {
+        "name": "Nabeel",
+        "points": 28,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "851dd8fa": {
+        "name": "Nekozei",
+        "points": 28,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "74a82e58": {
+        "name": "AnimeMaster",
+        "points": 9.399027777777777,
+        "t1": 0,
+        "t2": 1,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "c9df478a": {
+        "name": "Chika Fujiwara",
+        "points": 9.399027777777777,
+        "t1": 0,
+        "t2": 1,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "ef2a1637": {
+        "name": "Quil61",
+        "points": 9.095833333333333,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "2bb056ed": {
+        "name": "Bio",
+        "points": 9.095833333333333,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "e8b96218": {
+        "name": "Zteady191",
+        "points": 8.792638888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "213d510f": {
+        "name": "Kalilswag123",
+        "points": 8.792638888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "983e8c34": {
+        "name": "hawks1423",
+        "points": 8.792638888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "3bfcd0f8": {
+        "name": "THEJOSE-23",
+        "points": 8.489444444444445,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "8f55378a": {
+        "name": "Noobboy45",
+        "points": 8.489444444444445,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "bfdddc6b": {
+        "name": "paris",
+        "points": 8.489444444444445,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "e0e8fc1d": {
+        "name": "DSCL11",
+        "points": 8.489444444444445,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "1bad5150": {
+        "name": "!Lierr",
+        "points": 8.489444444444445,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "7672ef35": {
+        "name": "Monkey D. Sanji",
+        "points": 7.883055555555555,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "d7543583": {
+        "name": "Monkey D. Zoro",
+        "points": 7.883055555555555,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "a5e53569": {
+        "name": "Monkey D.Luffy",
+        "points": 7.883055555555555,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "64ef9b56": {
+        "name": "Winged_Shell",
+        "points": 7.883055555555555,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "2f6e678f": {
+        "name": "M.Fatal",
+        "points": 7.883055555555555,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "106029b7": {
+        "name": "AsusAdutora",
+        "points": 7.883055555555555,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "e0f9aa37": {
+        "name": "ColiKong",
+        "points": 7.883055555555555,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "1f2f80f8": {
+        "name": "Whazly",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "f1f4b032": {
+        "name": "Siralon",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "038d5ed2": {
+        "name": "Temari",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "72202de6": {
+        "name": "danstokes100",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "3fd55797": {
+        "name": "ConfusedYumiko",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "d96f6b6a": {
+        "name": "Izdat_vision",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "7f2418e2": {
+        "name": "CreamyPie",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "bc2eb314": {
+        "name": "ShreksSpermCell",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "fcb490e6": {
+        "name": "TexasTate",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "d257bb71": {
+        "name": "Jose The-Game",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "239a6228": {
+        "name": "Marcus Xd",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "d7cc39db": {
+        "name": "Choco_Boy",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "0cc76729": {
+        "name": "Taokaka's simp",
+        "points": 7.276666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "fae62cda": {
+        "name": "DrivingArrow587",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "c8644758": {
+        "name": "Chuyin",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "5b2588b1": {
+        "name": "MiniDino",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "4582e85d": {
+        "name": "TylinWYD",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "245bc32f": {
+        "name": "Birdy",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "ce7d2b6d": {
+        "name": "Dioxide",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "42fdfe68": {
+        "name": "FredSaurus",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "b065ff7d": {
+        "name": "Rafikii",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "856f3085": {
+        "name": "Kamdok",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "41433d89": {
+        "name": "CronoBH",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "0126cf6a": {
+        "name": "Jessica-Ugu",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "ea725dd7": {
+        "name": "ChidoMauster",
+        "points": 6.063888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      }
+    },
+    "guildid": "641355147049697280",
+    "channelid": "1060378149407428720",
+    "messageid": "1074604838131867658",
+    "latestTourney": 1675551600
+  },
+  "eu": {
+    "events": [
+      {
+        "slug": "tournament/brawlball-monthly/event/december-bracket-eu",
+        "multiplier": 0.5,
+        "event": {
+          "slug": "tournament/brawlball-monthly/event/december-bracket-eu",
+          "name": "December bracket EU",
+          "startAt": 1672408800,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "Bob’s Builders",
+                  "participants": [
+                    {
+                      "gamerTag": "Hichou",
+                      "user": {
+                        "discriminator": "8097f550"
+                      }
+                    },
+                    {
+                      "gamerTag": "Bob",
+                      "user": {
+                        "discriminator": "022f1709"
+                      }
+                    },
+                    {
+                      "gamerTag": "Flexy",
+                      "user": {
+                        "discriminator": "7537deb8"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "BoKlito",
+                  "participants": [
+                    {
+                      "gamerTag": "Bonobo",
+                      "user": {
+                        "discriminator": "c08f08e4"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kiritoo",
+                      "user": {
+                        "discriminator": "6875ee90"
+                      }
+                    },
+                    {
+                      "gamerTag": "Klein",
+                      "user": {
+                        "discriminator": "21fe4a61"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "Rocket GS",
+                  "participants": [
+                    {
+                      "gamerTag": "Erol",
+                      "user": {
+                        "discriminator": "708554ed"
+                      }
+                    },
+                    {
+                      "gamerTag": "Thaa15",
+                      "user": {
+                        "discriminator": "adb0a838"
+                      }
+                    },
+                    {
+                      "gamerTag": "Albæxybla",
+                      "user": {
+                        "discriminator": "b95cd9e1"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "The Avengers",
+                  "participants": [
+                    {
+                      "gamerTag": "Styleken",
+                      "user": {
+                        "discriminator": "01dc7eb6"
+                      }
+                    },
+                    {
+                      "gamerTag": "DanzoDon",
+                      "user": {
+                        "discriminator": "2343f77f"
+                      }
+                    },
+                    {
+                      "gamerTag": "Astru",
+                      "user": {
+                        "discriminator": "da112d0d"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "mistery power",
+                  "participants": [
+                    {
+                      "gamerTag": "mistery_posetart",
+                      "user": {
+                        "discriminator": "b538afef"
+                      }
+                    },
+                    {
+                      "gamerTag": "atome",
+                      "user": {
+                        "discriminator": "28309fa1"
+                      }
+                    },
+                    {
+                      "gamerTag": "MissAlbedo",
+                      "user": {
+                        "discriminator": "0054e61b"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "slug": "tournament/brawlball-monthly/event/november-bracket-eu-2",
+        "multiplier": 0.5,
+        "event": {
+          "slug": "tournament/brawlball-monthly/event/november-bracket-eu-2",
+          "name": "November bracket EU",
+          "startAt": 1669478400,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "Flexy's Fam",
+                  "participants": [
+                    {
+                      "gamerTag": "Hichou",
+                      "user": {
+                        "discriminator": "8097f550"
+                      }
+                    },
+                    {
+                      "gamerTag": "Bob",
+                      "user": {
+                        "discriminator": "022f1709"
+                      }
+                    },
+                    {
+                      "gamerTag": "Flexy",
+                      "user": {
+                        "discriminator": "7537deb8"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "kleritonobo",
+                  "participants": [
+                    {
+                      "gamerTag": "Bonobo",
+                      "user": {
+                        "discriminator": "c08f08e4"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kiritoo",
+                      "user": {
+                        "discriminator": "6875ee90"
+                      }
+                    },
+                    {
+                      "gamerTag": "Klein",
+                      "user": {
+                        "discriminator": "21fe4a61"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kenshiro",
+                      "user": {
+                        "discriminator": "eb842716"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "The Pyrateers",
+                  "participants": [
+                    {
+                      "gamerTag": "The Mighty Eagle",
+                      "user": {
+                        "discriminator": "c1bb1f2b"
+                      }
+                    },
+                    {
+                      "gamerTag": "Eichelbart",
+                      "user": {
+                        "discriminator": "54f45c66"
+                      }
+                    },
+                    {
+                      "gamerTag": "Boogie_T_B_D",
+                      "user": {
+                        "discriminator": "d03cad5c"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "Rocket GS",
+                  "participants": [
+                    {
+                      "gamerTag": "Erol",
+                      "user": {
+                        "discriminator": "708554ed"
+                      }
+                    },
+                    {
+                      "gamerTag": "Albæxybla",
+                      "user": {
+                        "discriminator": "b95cd9e1"
+                      }
+                    },
+                    {
+                      "gamerTag": "Thaa15",
+                      "user": {
+                        "discriminator": "adb0a838"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "WD WeaZzik",
+                  "participants": [
+                    {
+                      "gamerTag": "Drako1809",
+                      "user": {
+                        "discriminator": "b0b412aa"
+                      }
+                    },
+                    {
+                      "gamerTag": "CubeX",
+                      "user": {
+                        "discriminator": "7dfd9371"
+                      }
+                    },
+                    {
+                      "gamerTag": "WeaZzik",
+                      "user": {
+                        "discriminator": "d27ac2cf"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Speed Demons",
+                  "participants": [
+                    {
+                      "gamerTag": "TylactosAss",
+                      "user": {
+                        "discriminator": "b2ccaa9f"
+                      }
+                    },
+                    {
+                      "gamerTag": "Styleken",
+                      "user": {
+                        "discriminator": "01dc7eb6"
+                      }
+                    },
+                    {
+                      "gamerTag": "Astru",
+                      "user": {
+                        "discriminator": "da112d0d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Bolda",
+                      "user": null
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 7,
+                "entrant": {
+                  "name": "Balls",
+                  "participants": [
+                    {
+                      "gamerTag": "Lil'Fox <3",
+                      "user": {
+                        "discriminator": "dd3a29c1"
+                      }
+                    },
+                    {
+                      "gamerTag": "ma2st4er5",
+                      "user": {
+                        "discriminator": "1ed8c45a"
+                      }
+                    },
+                    {
+                      "gamerTag": "Sylin",
+                      "user": {
+                        "discriminator": "196abd64"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 7,
+                "entrant": {
+                  "name": "what the dog doing",
+                  "participants": [
+                    {
+                      "gamerTag": "RC",
+                      "user": {
+                        "discriminator": "753409f2"
+                      }
+                    },
+                    {
+                      "gamerTag": "lil mevv",
+                      "user": {
+                        "discriminator": "fbe14c81"
+                      }
+                    },
+                    {
+                      "gamerTag": "Goofy",
+                      "user": {
+                        "discriminator": "a8e43088"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "Vlo  Sap Pie",
+                  "participants": [
+                    {
+                      "gamerTag": "Pierre-Cha",
+                      "user": {
+                        "discriminator": "6605dc12"
+                      }
+                    },
+                    {
+                      "gamerTag": "Saphir?",
+                      "user": {
+                        "discriminator": "1464e80b"
+                      }
+                    },
+                    {
+                      "gamerTag": "Vlo0lyy",
+                      "user": {
+                        "discriminator": "ac7be66b"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "SL",
+                  "participants": [
+                    {
+                      "gamerTag": "0lish",
+                      "user": {
+                        "discriminator": "cd55acbb"
+                      }
+                    },
+                    {
+                      "gamerTag": "Fadyy1",
+                      "user": {
+                        "discriminator": "8005d75f"
+                      }
+                    },
+                    {
+                      "gamerTag": "Aj_nolove132",
+                      "user": {
+                        "discriminator": "70519eb3"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "Hank Hill from King of the Hill",
+                  "participants": [
+                    {
+                      "gamerTag": "Undiagnosed Dyslexia",
+                      "user": {
+                        "discriminator": "d51b52e5"
+                      }
+                    },
+                    {
+                      "gamerTag": "JohnnyTG",
+                      "user": {
+                        "discriminator": "99a8fc06"
+                      }
+                    },
+                    {
+                      "gamerTag": "So0fer",
+                      "user": {
+                        "discriminator": "71829490"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "krokik",
+                  "participants": [
+                    {
+                      "gamerTag": "Just",
+                      "user": {
+                        "discriminator": "c3a8a0e8"
+                      }
+                    },
+                    {
+                      "gamerTag": "pierchy",
+                      "user": {
+                        "discriminator": "cc9da745"
+                      }
+                    },
+                    {
+                      "gamerTag": "Isti",
+                      "user": {
+                        "discriminator": "14104f71"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "slug": "tournament/brawlball-winter-championship-2023/event/eu-brawlball-winter-championship",
+        "multiplier": 1,
+        "event": {
+          "slug": "tournament/brawlball-winter-championship-2023/event/eu-brawlball-winter-championship",
+          "name": "EU Brawlball Winter Championship",
+          "startAt": 1675627200,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "Bob’s Builders",
+                  "participants": [
+                    {
+                      "gamerTag": "Hichou",
+                      "user": {
+                        "discriminator": "8097f550"
+                      }
+                    },
+                    {
+                      "gamerTag": "Bob",
+                      "user": {
+                        "discriminator": "022f1709"
+                      }
+                    },
+                    {
+                      "gamerTag": "Flexy",
+                      "user": {
+                        "discriminator": "7537deb8"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "BoKlito",
+                  "participants": [
+                    {
+                      "gamerTag": "Bonobo",
+                      "user": {
+                        "discriminator": "c08f08e4"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kiritoo",
+                      "user": {
+                        "discriminator": "6875ee90"
+                      }
+                    },
+                    {
+                      "gamerTag": "Klein",
+                      "user": {
+                        "discriminator": "21fe4a61"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "Tao Si",
+                  "participants": [
+                    {
+                      "gamerTag": "Astru",
+                      "user": {
+                        "discriminator": "da112d0d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kevin1185",
+                      "user": {
+                        "discriminator": "c2e270f0"
+                      }
+                    },
+                    {
+                      "gamerTag": "Styleken",
+                      "user": {
+                        "discriminator": "01dc7eb6"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "Turbo",
+                  "participants": [
+                    {
+                      "gamerTag": "Yeakoo",
+                      "user": {
+                        "discriminator": "c5859b34"
+                      }
+                    },
+                    {
+                      "gamerTag": "The Mighty Eagle",
+                      "user": {
+                        "discriminator": "c1bb1f2b"
+                      }
+                    },
+                    {
+                      "gamerTag": "VenomX",
+                      "user": {
+                        "discriminator": "ed0ab7a7"
+                      }
+                    },
+                    {
+                      "gamerTag": "Boogie_T_B_D",
+                      "user": {
+                        "discriminator": "d03cad5c"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Team Name Generator",
+                  "participants": [
+                    {
+                      "gamerTag": "jimm25",
+                      "user": {
+                        "discriminator": "151d66da"
+                      }
+                    },
+                    {
+                      "gamerTag": "DanzoDon",
+                      "user": {
+                        "discriminator": "2343f77f"
+                      }
+                    },
+                    {
+                      "gamerTag": "Pentane",
+                      "user": {
+                        "discriminator": "c650007b"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Rocket GS",
+                  "participants": [
+                    {
+                      "gamerTag": "Erol",
+                      "user": {
+                        "discriminator": "708554ed"
+                      }
+                    },
+                    {
+                      "gamerTag": "Albæxybla",
+                      "user": {
+                        "discriminator": "b95cd9e1"
+                      }
+                    },
+                    {
+                      "gamerTag": "Thaa15",
+                      "user": {
+                        "discriminator": "adb0a838"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 7,
+                "entrant": {
+                  "name": "Obsessives and alfa.k",
+                  "participants": [
+                    {
+                      "gamerTag": "alfa.k",
+                      "user": {
+                        "discriminator": "df7526d6"
+                      }
+                    },
+                    {
+                      "gamerTag": "pierchy",
+                      "user": {
+                        "discriminator": "cc9da745"
+                      }
+                    },
+                    {
+                      "gamerTag": "Isti",
+                      "user": {
+                        "discriminator": "14104f71"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 7,
+                "entrant": {
+                  "name": "Privateers",
+                  "participants": [
+                    {
+                      "gamerTag": "KaeptnKook",
+                      "user": {
+                        "discriminator": "3a15ae8d"
+                      }
+                    },
+                    {
+                      "gamerTag": "WeaZzik",
+                      "user": {
+                        "discriminator": "d27ac2cf"
+                      }
+                    },
+                    {
+                      "gamerTag": "LonelyTunes",
+                      "user": {
+                        "discriminator": "2a240ee8"
+                      }
+                    },
+                    {
+                      "gamerTag": "CubeX",
+                      "user": {
+                        "discriminator": "7dfd9371"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "Frosteriños",
+                  "participants": [
+                    {
+                      "gamerTag": "TheYeGuy",
+                      "user": {
+                        "discriminator": "a2415ece"
+                      }
+                    },
+                    {
+                      "gamerTag": "Ax-Ray",
+                      "user": {
+                        "discriminator": "48267ba2"
+                      }
+                    },
+                    {
+                      "gamerTag": "toshi",
+                      "user": {
+                        "discriminator": "504acb1e"
+                      }
+                    },
+                    {
+                      "gamerTag": "CIovar",
+                      "user": {
+                        "discriminator": "0fce939c"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "The Underdogs",
+                  "participants": [
+                    {
+                      "gamerTag": "kryptonite_boi",
+                      "user": {
+                        "discriminator": "508bc25d"
+                      }
+                    },
+                    {
+                      "gamerTag": "HydraWerewolf",
+                      "user": {
+                        "discriminator": "67f91cf0"
+                      }
+                    },
+                    {
+                      "gamerTag": "ASGORE",
+                      "user": {
+                        "discriminator": "cb874fd1"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "clownes",
+                  "participants": [
+                    {
+                      "gamerTag": "Domagoj_playz",
+                      "user": {
+                        "discriminator": "9b7d6314"
+                      }
+                    },
+                    {
+                      "gamerTag": "Dragon_Rider01#8588",
+                      "user": {
+                        "discriminator": "00bb5f3c"
+                      }
+                    },
+                    {
+                      "gamerTag": "CrizT",
+                      "user": {
+                        "discriminator": "d82f8e91"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "slug": "tournament/our-style-brawlball-summer-championships-2022/event/eu-summer-championship-brawlball-3v3",
+        "multiplier": 1,
+        "event": {
+          "slug": "tournament/our-style-brawlball-summer-championships-2022/event/eu-summer-championship-brawlball-3v3",
+          "name": "EU Summer Championship Brawlball 3v3",
+          "startAt": 1657393200,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "Flexy / Bob / Hichou",
+                  "participants": [
+                    {
+                      "gamerTag": "Bob",
+                      "user": {
+                        "discriminator": "022f1709"
+                      }
+                    },
+                    {
+                      "gamerTag": "Flexy",
+                      "user": {
+                        "discriminator": "7537deb8"
+                      }
+                    },
+                    {
+                      "gamerTag": "Hichou",
+                      "user": {
+                        "discriminator": "8097f550"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "Kiritoo / Klein / Bonobo",
+                  "participants": [
+                    {
+                      "gamerTag": "Kiritoo",
+                      "user": {
+                        "discriminator": "6875ee90"
+                      }
+                    },
+                    {
+                      "gamerTag": "Klein",
+                      "user": {
+                        "discriminator": "21fe4a61"
+                      }
+                    },
+                    {
+                      "gamerTag": "Bonobo",
+                      "user": {
+                        "discriminator": "c08f08e4"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "Astru / Styleken / Pentane / Kenshiro",
+                  "participants": [
+                    {
+                      "gamerTag": "Styleken",
+                      "user": {
+                        "discriminator": "01dc7eb6"
+                      }
+                    },
+                    {
+                      "gamerTag": "Pentane",
+                      "user": {
+                        "discriminator": "c650007b"
+                      }
+                    },
+                    {
+                      "gamerTag": "Astru",
+                      "user": {
+                        "discriminator": "da112d0d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kenshiro",
+                      "user": {
+                        "discriminator": "eb842716"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "Boogie_T_B_D / Huris / Sacred Knight (T.M.E.)",
+                  "participants": [
+                    {
+                      "gamerTag": "Huris",
+                      "user": {
+                        "discriminator": "99da98ec"
+                      }
+                    },
+                    {
+                      "gamerTag": "Sacred Knight (T.M.E.)",
+                      "user": {
+                        "discriminator": "c1bb1f2b"
+                      }
+                    },
+                    {
+                      "gamerTag": "Boogie_T_B_D",
+                      "user": {
+                        "discriminator": "d03cad5c"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Kevin1185 / jimm25 / CTNS",
+                  "participants": [
+                    {
+                      "gamerTag": "Kevin1185",
+                      "user": {
+                        "discriminator": "c2e270f0"
+                      }
+                    },
+                    {
+                      "gamerTag": "CTNS",
+                      "user": {
+                        "discriminator": "b6376c17"
+                      }
+                    },
+                    {
+                      "gamerTag": "jimm25",
+                      "user": {
+                        "discriminator": "151d66da"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Erol / Pipnocho / Thaa15 / Kali",
+                  "participants": [
+                    {
+                      "gamerTag": "Kali",
+                      "user": {
+                        "discriminator": "61a149d7"
+                      }
+                    },
+                    {
+                      "gamerTag": "Erol",
+                      "user": {
+                        "discriminator": "708554ed"
+                      }
+                    },
+                    {
+                      "gamerTag": "Pipnocho",
+                      "user": {
+                        "discriminator": "af8e3183"
+                      }
+                    },
+                    {
+                      "gamerTag": "Thaa15",
+                      "user": {
+                        "discriminator": "adb0a838"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 7,
+                "entrant": {
+                  "name": "Dummy / zyder / Gold?",
+                  "participants": [
+                    {
+                      "gamerTag": "zyder",
+                      "user": {
+                        "discriminator": "1e356874"
+                      }
+                    },
+                    {
+                      "gamerTag": "Dummy",
+                      "user": {
+                        "discriminator": "d27bf97a"
+                      }
+                    },
+                    {
+                      "gamerTag": "acno?",
+                      "user": {
+                        "discriminator": "3ca0dbe3"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 7,
+                "entrant": {
+                  "name": "Merlin / Ryô / Fezaru80",
+                  "participants": [
+                    {
+                      "gamerTag": "Ryô",
+                      "user": {
+                        "discriminator": "970192da"
+                      }
+                    },
+                    {
+                      "gamerTag": "Fezaru80",
+                      "user": {
+                        "discriminator": "0729f161"
+                      }
+                    },
+                    {
+                      "gamerTag": "Merlin",
+                      "user": {
+                        "discriminator": "809198cc"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "SquiKel / Baaanana / Bonkers",
+                  "participants": [
+                    {
+                      "gamerTag": "Baaanana",
+                      "user": {
+                        "discriminator": "99d3d983"
+                      }
+                    },
+                    {
+                      "gamerTag": "SquiKel",
+                      "user": {
+                        "discriminator": "ea1be088"
+                      }
+                    },
+                    {
+                      "gamerTag": "Bonkers",
+                      "user": {
+                        "discriminator": "3c795f18"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "DragonD / Chucky / PRS*Marc",
+                  "participants": [
+                    {
+                      "gamerTag": "Chucky",
+                      "user": {
+                        "discriminator": "0a9912d5"
+                      }
+                    },
+                    {
+                      "gamerTag": "DragonD",
+                      "user": {
+                        "discriminator": "6bca29bd"
+                      }
+                    },
+                    {
+                      "gamerTag": "PRS*Marc",
+                      "user": {
+                        "discriminator": "d05e562f"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "DanzoDon / Sanmaay / Keraunos",
+                  "participants": [
+                    {
+                      "gamerTag": "DanzoDon",
+                      "user": {
+                        "discriminator": "2343f77f"
+                      }
+                    },
+                    {
+                      "gamerTag": "Sanmaay",
+                      "user": {
+                        "discriminator": "ab9dfc38"
+                      }
+                    },
+                    {
+                      "gamerTag": "Keraunos",
+                      "user": {
+                        "discriminator": "bec6e966"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "Turtle / Theemok / Isma",
+                  "participants": [
+                    {
+                      "gamerTag": "Theemok",
+                      "user": {
+                        "discriminator": "21e04539"
+                      }
+                    },
+                    {
+                      "gamerTag": "Turtle",
+                      "user": {
+                        "discriminator": "11680eae"
+                      }
+                    },
+                    {
+                      "gamerTag": "Isma",
+                      "user": {
+                        "discriminator": "68611306"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 13,
+                "entrant": {
+                  "name": "Piggie / TheYeGuy / Kapp",
+                  "participants": [
+                    {
+                      "gamerTag": "TheYeGuy",
+                      "user": {
+                        "discriminator": "a2415ece"
+                      }
+                    },
+                    {
+                      "gamerTag": "Piggie",
+                      "user": {
+                        "discriminator": "ba8c7ac3"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kapp",
+                      "user": {
+                        "discriminator": "b7100608"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 13,
+                "entrant": {
+                  "name": "Toaster / SIR_Tigerfang / Deeathz",
+                  "participants": [
+                    {
+                      "gamerTag": "SIR_Tigerfang",
+                      "user": {
+                        "discriminator": "4144e8e5"
+                      }
+                    },
+                    {
+                      "gamerTag": "Toaster",
+                      "user": {
+                        "discriminator": "58c25d04"
+                      }
+                    },
+                    {
+                      "gamerTag": "Deeathz",
+                      "user": {
+                        "discriminator": "b1101cc0"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 13,
+                "entrant": {
+                  "name": "Akamex14 / higi-chan / Foizey",
+                  "participants": [
+                    {
+                      "gamerTag": "higi-chan",
+                      "user": {
+                        "discriminator": "5c7c7111"
+                      }
+                    },
+                    {
+                      "gamerTag": "Akamex14",
+                      "user": {
+                        "discriminator": "f7900439"
+                      }
+                    },
+                    {
+                      "gamerTag": "Foizey",
+                      "user": {
+                        "discriminator": "21a7fa8d"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 13,
+                "entrant": {
+                  "name": "LuggasLindoYT / Pfreedus / RafaeLCopes",
+                  "participants": [
+                    {
+                      "gamerTag": "LuggasLindoYT",
+                      "user": {
+                        "discriminator": "79ba9b9f"
+                      }
+                    },
+                    {
+                      "gamerTag": "Pfreedus",
+                      "user": {
+                        "discriminator": "431ecdbe"
+                      }
+                    },
+                    {
+                      "gamerTag": "RafaeLCopes",
+                      "user": {
+                        "discriminator": "f5874499"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "standings": {
+      "68611306": {
+        "name": "Isma",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "71829490": {
+        "name": "So0fer",
+        "points": 9.153333333333332,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "ids": [
+        "8097f550",
+        "022f1709",
+        "7537deb8",
+        "c08f08e4",
+        "6875ee90",
+        "21fe4a61",
+        "01dc7eb6",
+        "da112d0d",
+        "708554ed",
+        "adb0a838",
+        "b95cd9e1",
+        "c1bb1f2b",
+        "d03cad5c",
+        "2343f77f",
+        "c2e270f0",
+        "c650007b",
+        "7dfd9371",
+        "d27ac2cf",
+        "151d66da",
+        "cc9da745",
+        "14104f71",
+        "a2415ece",
+        "c5859b34",
+        "ed0ab7a7",
+        "df7526d6",
+        "3a15ae8d",
+        "2a240ee8",
+        "48267ba2",
+        "504acb1e",
+        "0fce939c",
+        "508bc25d",
+        "67f91cf0",
+        "cb874fd1",
+        "9b7d6314",
+        "00bb5f3c",
+        "d82f8e91",
+        "eb842716",
+        "b538afef",
+        "28309fa1",
+        "0054e61b",
+        "54f45c66",
+        "b0b412aa",
+        "b2ccaa9f",
+        "dd3a29c1",
+        "1ed8c45a",
+        "196abd64",
+        "753409f2",
+        "fbe14c81",
+        "a8e43088",
+        "6605dc12",
+        "1464e80b",
+        "ac7be66b",
+        "cd55acbb",
+        "8005d75f",
+        "70519eb3",
+        "d51b52e5",
+        "99a8fc06",
+        "71829490",
+        "c3a8a0e8",
+        "99da98ec",
+        "b6376c17",
+        "61a149d7",
+        "af8e3183",
+        "1e356874",
+        "d27bf97a",
+        "3ca0dbe3",
+        "970192da",
+        "0729f161",
+        "809198cc",
+        "99d3d983",
+        "ea1be088",
+        "3c795f18",
+        "0a9912d5",
+        "6bca29bd",
+        "d05e562f",
+        "ab9dfc38",
+        "bec6e966",
+        "21e04539",
+        "11680eae",
+        "68611306",
+        "ba8c7ac3",
+        "b7100608",
+        "4144e8e5",
+        "58c25d04",
+        "b1101cc0",
+        "5c7c7111",
+        "f7900439",
+        "21a7fa8d",
+        "79ba9b9f",
+        "431ecdbe",
+        "f5874499"
+      ],
+      "8097f550": {
+        "name": "Hichou",
+        "points": 67.70666666666666,
+        "t1": 4,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "022f1709": {
+        "name": "Bob",
+        "points": 67.70666666666666,
+        "t1": 4,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "7537deb8": {
+        "name": "Flexy",
+        "points": 67.70666666666666,
+        "t1": 4,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "c08f08e4": {
+        "name": "Bonobo",
+        "points": 65.59083333333334,
+        "t1": 0,
+        "t2": 4,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "6875ee90": {
+        "name": "Kiritoo",
+        "points": 65.59083333333334,
+        "t1": 0,
+        "t2": 4,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "21fe4a61": {
+        "name": "Klein",
+        "points": 65.59083333333334,
+        "t1": 0,
+        "t2": 4,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "708554ed": {
+        "name": "Erol",
+        "points": 60.50055555555556,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 3,
+        "t16": 0
+      },
+      "adb0a838": {
+        "name": "Thaa15",
+        "points": 60.50055555555556,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 3,
+        "t16": 0
+      },
+      "b95cd9e1": {
+        "name": "Albæxybla",
+        "points": 52.19777777777778,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 2,
+        "t16": 0
+      },
+      "01dc7eb6": {
+        "name": "Styleken",
+        "points": 62.27430555555556,
+        "t1": 0,
+        "t2": 0,
+        "t3": 2,
+        "t8": 2,
+        "t16": 0
+      },
+      "2343f77f": {
+        "name": "DanzoDon",
+        "points": 47.816250000000004,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 2,
+        "t16": 1
+      },
+      "da112d0d": {
+        "name": "Astru",
+        "points": 62.27430555555556,
+        "t1": 0,
+        "t2": 0,
+        "t3": 2,
+        "t8": 2,
+        "t16": 0
+      },
+      "b538afef": {
+        "name": "mistery_posetart",
+        "points": 12.261666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "28309fa1": {
+        "name": "atome",
+        "points": 12.261666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "0054e61b": {
+        "name": "MissAlbedo",
+        "points": 12.261666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "eb842716": {
+        "name": "Kenshiro",
+        "points": 20.71888888888889,
+        "t1": 0,
+        "t2": 1,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "c1bb1f2b": {
+        "name": "The Mighty Eagle",
+        "points": 49.04097222222222,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 2,
+        "t16": 0
+      },
+      "54f45c66": {
+        "name": "Eichelbart",
+        "points": 11.441666666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "d03cad5c": {
+        "name": "Boogie_T_B_D",
+        "points": 49.04097222222222,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 2,
+        "t16": 0
+      },
+      "b0b412aa": {
+        "name": "Drako1809",
+        "points": 10.678888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "7dfd9371": {
+        "name": "CubeX",
+        "points": 36.67888888888889,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 2,
+        "t16": 0
+      },
+      "d27ac2cf": {
+        "name": "WeaZzik",
+        "points": 36.67888888888889,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 2,
+        "t16": 0
+      },
+      "b2ccaa9f": {
+        "name": "TylactosAss",
+        "points": 10.678888888888888,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "dd3a29c1": {
+        "name": "Lil'Fox <3",
+        "points": 9.91611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "1ed8c45a": {
+        "name": "ma2st4er5",
+        "points": 9.91611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "196abd64": {
+        "name": "Sylin",
+        "points": 9.91611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "753409f2": {
+        "name": "RC",
+        "points": 9.91611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "fbe14c81": {
+        "name": "lil mevv",
+        "points": 9.91611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "a8e43088": {
+        "name": "Goofy",
+        "points": 9.91611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "6605dc12": {
+        "name": "Pierre-Cha",
+        "points": 9.153333333333332,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "1464e80b": {
+        "name": "Saphir?",
+        "points": 9.153333333333332,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "ac7be66b": {
+        "name": "Vlo0lyy",
+        "points": 9.153333333333332,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "cd55acbb": {
+        "name": "0lish",
+        "points": 9.153333333333332,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "8005d75f": {
+        "name": "Fadyy1",
+        "points": 9.153333333333332,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "70519eb3": {
+        "name": "Aj_nolove132",
+        "points": 9.153333333333332,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "d51b52e5": {
+        "name": "Undiagnosed Dyslexia",
+        "points": 9.153333333333332,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "99a8fc06": {
+        "name": "JohnnyTG",
+        "points": 9.153333333333332,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "c3a8a0e8": {
+        "name": "Just",
+        "points": 9.153333333333332,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "cc9da745": {
+        "name": "pierchy",
+        "points": 35.153333333333336,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 1
+      },
+      "14104f71": {
+        "name": "Isti",
+        "points": 35.153333333333336,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 1
+      },
+      "c2e270f0": {
+        "name": "Kevin1185",
+        "points": 38.30277777777778,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 1,
+        "t16": 0
+      },
+      "c5859b34": {
+        "name": "Yeakoo",
+        "points": 29,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "ed0ab7a7": {
+        "name": "VenomX",
+        "points": 29,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "151d66da": {
+        "name": "jimm25",
+        "points": 36.30277777777778,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 2,
+        "t16": 0
+      },
+      "c650007b": {
+        "name": "Pentane",
+        "points": 36.895833333333336,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 1,
+        "t16": 0
+      },
+      "df7526d6": {
+        "name": "alfa.k",
+        "points": 26,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "3a15ae8d": {
+        "name": "KaeptnKook",
+        "points": 26,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "2a240ee8": {
+        "name": "LonelyTunes",
+        "points": 26,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "a2415ece": {
+        "name": "TheYeGuy",
+        "points": 29.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 2
+      },
+      "48267ba2": {
+        "name": "Ax-Ray",
+        "points": 24,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "504acb1e": {
+        "name": "toshi",
+        "points": 24,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "0fce939c": {
+        "name": "CIovar",
+        "points": 24,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "508bc25d": {
+        "name": "kryptonite_boi",
+        "points": 24,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "67f91cf0": {
+        "name": "HydraWerewolf",
+        "points": 24,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "cb874fd1": {
+        "name": "ASGORE",
+        "points": 24,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "9b7d6314": {
+        "name": "Domagoj_playz",
+        "points": 24,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "00bb5f3c": {
+        "name": "Dragon_Rider01#8588",
+        "points": 24,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "d82f8e91": {
+        "name": "CrizT",
+        "points": 24,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "99da98ec": {
+        "name": "Huris",
+        "points": 8.599305555555556,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "b6376c17": {
+        "name": "CTNS",
+        "points": 8.302777777777779,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "61a149d7": {
+        "name": "Kali",
+        "points": 8.302777777777779,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "af8e3183": {
+        "name": "Pipnocho",
+        "points": 8.302777777777779,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "1e356874": {
+        "name": "zyder",
+        "points": 7.709722222222224,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "d27bf97a": {
+        "name": "Dummy",
+        "points": 7.709722222222224,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "3ca0dbe3": {
+        "name": "acno?",
+        "points": 7.709722222222224,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "970192da": {
+        "name": "Ryô",
+        "points": 7.709722222222224,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "0729f161": {
+        "name": "Fezaru80",
+        "points": 7.709722222222224,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "809198cc": {
+        "name": "Merlin",
+        "points": 7.709722222222224,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "99d3d983": {
+        "name": "Baaanana",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "ea1be088": {
+        "name": "SquiKel",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "3c795f18": {
+        "name": "Bonkers",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "0a9912d5": {
+        "name": "Chucky",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "6bca29bd": {
+        "name": "DragonD",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "d05e562f": {
+        "name": "PRS*Marc",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "ab9dfc38": {
+        "name": "Sanmaay",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "bec6e966": {
+        "name": "Keraunos",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "21e04539": {
+        "name": "Theemok",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "11680eae": {
+        "name": "Turtle",
+        "points": 7.116666666666668,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "ba8c7ac3": {
+        "name": "Piggie",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "b7100608": {
+        "name": "Kapp",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "4144e8e5": {
+        "name": "SIR_Tigerfang",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "58c25d04": {
+        "name": "Toaster",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "b1101cc0": {
+        "name": "Deeathz",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "5c7c7111": {
+        "name": "higi-chan",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "f7900439": {
+        "name": "Akamex14",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "21a7fa8d": {
+        "name": "Foizey",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "79ba9b9f": {
+        "name": "LuggasLindoYT",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "431ecdbe": {
+        "name": "Pfreedus",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "f5874499": {
+        "name": "RafaeLCopes",
+        "points": 5.930555555555557,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      }
+    },
+    "guildid": "641355147049697280",
+    "channelid": "1074779901925797949",
+    "messageid": "1074780109808074822",
+    "latestTourney": 1675627200
+  },
+  "aus": {
+    "events": [
+      {
+        "slug": "tournament/brawlball-monthly/event/december-bracket-aus",
+        "multiplier": 0.5,
+        "event": {
+          "slug": "tournament/brawlball-monthly/event/december-bracket-aus",
+          "name": "December bracket AUS",
+          "startAt": 1672380000,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "worms",
+                  "participants": [
+                    {
+                      "gamerTag": "Rygunduz",
+                      "user": {
+                        "discriminator": "ffef1e96"
+                      }
+                    },
+                    {
+                      "gamerTag": "Doggo",
+                      "user": {
+                        "discriminator": "5f1f041f"
+                      }
+                    },
+                    {
+                      "gamerTag": "Cheeseface",
+                      "user": {
+                        "discriminator": "2b60a352"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "Two Balls Touching",
+                  "participants": [
+                    {
+                      "gamerTag": "KeithThePooPoo",
+                      "user": {
+                        "discriminator": "4e0ab794"
+                      }
+                    },
+                    {
+                      "gamerTag": "Yunpyo",
+                      "user": {
+                        "discriminator": "7442729c"
+                      }
+                    },
+                    {
+                      "gamerTag": "eli",
+                      "user": {
+                        "discriminator": "d86de9af"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "Pro Town and Xander",
+                  "participants": [
+                    {
+                      "gamerTag": "xander5982",
+                      "user": {
+                        "discriminator": "d059b364"
+                      }
+                    },
+                    {
+                      "gamerTag": "schmory",
+                      "user": {
+                        "discriminator": "3fdff420"
+                      }
+                    },
+                    {
+                      "gamerTag": "nair shark",
+                      "user": {
+                        "discriminator": "12ed651f"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "DRZ",
+                  "participants": [
+                    {
+                      "gamerTag": "Zackdaboss",
+                      "user": {
+                        "discriminator": "a1bbb979"
+                      }
+                    },
+                    {
+                      "gamerTag": "Rosco",
+                      "user": {
+                        "discriminator": "62e7754d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Dex1ty",
+                      "user": {
+                        "discriminator": "da9f034b"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Eternal Rose",
+                  "participants": [
+                    {
+                      "gamerTag": "Zylus",
+                      "user": {
+                        "discriminator": "6af054a9"
+                      }
+                    },
+                    {
+                      "gamerTag": "HERMAPHRODITISM",
+                      "user": {
+                        "discriminator": "0910647f"
+                      }
+                    },
+                    {
+                      "gamerTag": "SilentSword",
+                      "user": {
+                        "discriminator": "528adfc4"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "Loubya",
+                  "participants": [
+                    {
+                      "gamerTag": "Hichou",
+                      "user": {
+                        "discriminator": "8097f550"
+                      }
+                    },
+                    {
+                      "gamerTag": "Astru",
+                      "user": {
+                        "discriminator": "da112d0d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Flexy",
+                      "user": {
+                        "discriminator": "7537deb8"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "standings": {
+      "ids": [
+        "ffef1e96",
+        "5f1f041f",
+        "2b60a352",
+        "4e0ab794",
+        "7442729c",
+        "d86de9af",
+        "d059b364",
+        "3fdff420",
+        "12ed651f",
+        "a1bbb979",
+        "62e7754d",
+        "da9f034b",
+        "6af054a9",
+        "0910647f",
+        "528adfc4",
+        "8097f550",
+        "da112d0d",
+        "7537deb8"
+      ],
+      "ffef1e96": {
+        "name": "Rygunduz",
+        "points": 13.995555555555555,
+        "t1": 1,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "5f1f041f": {
+        "name": "Doggo",
+        "points": 13.995555555555555,
+        "t1": 1,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "2b60a352": {
+        "name": "Cheeseface",
+        "points": 13.995555555555555,
+        "t1": 1,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "4e0ab794": {
+        "name": "KeithThePooPoo",
+        "points": 13.558194444444444,
+        "t1": 0,
+        "t2": 1,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "7442729c": {
+        "name": "Yunpyo",
+        "points": 13.558194444444444,
+        "t1": 0,
+        "t2": 1,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "d86de9af": {
+        "name": "eli",
+        "points": 13.558194444444444,
+        "t1": 0,
+        "t2": 1,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "d059b364": {
+        "name": "xander5982",
+        "points": 13.120833333333334,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "3fdff420": {
+        "name": "schmory",
+        "points": 13.120833333333334,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "12ed651f": {
+        "name": "nair shark",
+        "points": 13.120833333333334,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "a1bbb979": {
+        "name": "Zackdaboss",
+        "points": 12.683472222222221,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "62e7754d": {
+        "name": "Rosco",
+        "points": 12.683472222222221,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "da9f034b": {
+        "name": "Dex1ty",
+        "points": 12.683472222222221,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "6af054a9": {
+        "name": "Zylus",
+        "points": 12.24611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "0910647f": {
+        "name": "HERMAPHRODITISM",
+        "points": 12.24611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "528adfc4": {
+        "name": "SilentSword",
+        "points": 12.24611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "8097f550": {
+        "name": "Hichou",
+        "points": 12.24611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "da112d0d": {
+        "name": "Astru",
+        "points": 12.24611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "7537deb8": {
+        "name": "Flexy",
+        "points": 12.24611111111111,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      }
+    },
+    "guildid": "641355147049697280",
+    "channelid": "1074779920401707049",
+    "messageid": "1074780148219518986",
+    "latestTourney": 1675627200
+  },
+  "sea": {
+    "events": [
+      {
+        "slug": "tournament/brawlball-winter-championship-2023/event/sea-brawlball-winter-championship",
+        "multiplier": 1,
+        "event": {
+          "slug": "tournament/brawlball-winter-championship-2023/event/sea-brawlball-winter-championship",
+          "name": "SEA Brawlball Winter Championship",
+          "startAt": 1675587600,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "haha",
+                  "participants": [
+                    {
+                      "gamerTag": "himwy",
+                      "user": {
+                        "discriminator": "1cc2c7ad"
+                      }
+                    },
+                    {
+                      "gamerTag": "Serenity",
+                      "user": {
+                        "discriminator": "91b92cdd"
+                      }
+                    },
+                    {
+                      "gamerTag": "ero",
+                      "user": {
+                        "discriminator": "239ce7de"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "MENA",
+                  "participants": [
+                    {
+                      "gamerTag": "Hichou",
+                      "user": {
+                        "discriminator": "8097f550"
+                      }
+                    },
+                    {
+                      "gamerTag": "Astru",
+                      "user": {
+                        "discriminator": "da112d0d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Flexy",
+                      "user": {
+                        "discriminator": "7537deb8"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "PoOpy | isãbelle",
+                  "participants": [
+                    {
+                      "gamerTag": "Yunpyo",
+                      "user": {
+                        "discriminator": "7442729c"
+                      }
+                    },
+                    {
+                      "gamerTag": "Glaedr",
+                      "user": {
+                        "discriminator": "289e0c97"
+                      }
+                    },
+                    {
+                      "gamerTag": "Kevin1185",
+                      "user": {
+                        "discriminator": "c2e270f0"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "Walker attackers",
+                  "participants": [
+                    {
+                      "gamerTag": "Erol",
+                      "user": {
+                        "discriminator": "708554ed"
+                      }
+                    },
+                    {
+                      "gamerTag": "4u",
+                      "user": {
+                        "discriminator": "5e6a9cf3"
+                      }
+                    },
+                    {
+                      "gamerTag": "kryptonite_boi",
+                      "user": {
+                        "discriminator": "508bc25d"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "JJF / SKS",
+                  "participants": [
+                    {
+                      "gamerTag": "JJF",
+                      "user": {
+                        "discriminator": "7513ad00"
+                      }
+                    },
+                    {
+                      "gamerTag": "SKS",
+                      "user": {
+                        "discriminator": "291c577d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Ripplash",
+                      "user": {
+                        "discriminator": "c4a3d320"
+                      }
+                    },
+                    {
+                      "gamerTag": "tsunade",
+                      "user": {
+                        "discriminator": "6ea39049"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "slug": "tournament/brawlball-monthly/event/december-bracket-sea",
+        "multiplier": 0.5,
+        "event": {
+          "slug": "tournament/brawlball-monthly/event/december-bracket-sea",
+          "name": "December bracket SEA",
+          "startAt": 1672390800,
+          "standings": {
+            "nodes": [
+              {
+                "standing": 1,
+                "entrant": {
+                  "name": "PoOpy | isãbelle",
+                  "participants": [
+                    {
+                      "gamerTag": "KeithThePooPoo",
+                      "user": {
+                        "discriminator": "4e0ab794"
+                      }
+                    },
+                    {
+                      "gamerTag": "Yunpyo",
+                      "user": {
+                        "discriminator": "7442729c"
+                      }
+                    },
+                    {
+                      "gamerTag": "Snowball <3",
+                      "user": {
+                        "discriminator": "3f783476"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 2,
+                "entrant": {
+                  "name": "Loubya",
+                  "participants": [
+                    {
+                      "gamerTag": "Hichou",
+                      "user": {
+                        "discriminator": "8097f550"
+                      }
+                    },
+                    {
+                      "gamerTag": "Astru",
+                      "user": {
+                        "discriminator": "da112d0d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Flexy",
+                      "user": {
+                        "discriminator": "7537deb8"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 3,
+                "entrant": {
+                  "name": "Side Oak",
+                  "participants": [
+                    {
+                      "gamerTag": "Reaper",
+                      "user": {
+                        "discriminator": "dd200b6d"
+                      }
+                    },
+                    {
+                      "gamerTag": "DoubleJ_",
+                      "user": {
+                        "discriminator": "4fb1a86a"
+                      }
+                    },
+                    {
+                      "gamerTag": "GTG",
+                      "user": {
+                        "discriminator": "de000cb8"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 4,
+                "entrant": {
+                  "name": "Himwy Jerry Serenity Beaters.",
+                  "participants": [
+                    {
+                      "gamerTag": "zosu",
+                      "user": {
+                        "discriminator": "00c9d361"
+                      }
+                    },
+                    {
+                      "gamerTag": "noot",
+                      "user": {
+                        "discriminator": "8b959568"
+                      }
+                    },
+                    {
+                      "gamerTag": "taxiivation",
+                      "user": {
+                        "discriminator": "9e4e4cf1"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "pros",
+                  "participants": [
+                    {
+                      "gamerTag": "jerryK",
+                      "user": {
+                        "discriminator": "1259e4ca"
+                      }
+                    },
+                    {
+                      "gamerTag": "himwy",
+                      "user": {
+                        "discriminator": "1cc2c7ad"
+                      }
+                    },
+                    {
+                      "gamerTag": "Serenity",
+                      "user": {
+                        "discriminator": "91b92cdd"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 5,
+                "entrant": {
+                  "name": "BALL TOUCHER",
+                  "participants": [
+                    {
+                      "gamerTag": "Something",
+                      "user": {
+                        "discriminator": "e804f85d"
+                      }
+                    },
+                    {
+                      "gamerTag": "Roody",
+                      "user": {
+                        "discriminator": "87f0de4c"
+                      }
+                    },
+                    {
+                      "gamerTag": "Denze",
+                      "user": {
+                        "discriminator": "102f6a81"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 7,
+                "entrant": {
+                  "name": "Klein Gang",
+                  "participants": [
+                    {
+                      "gamerTag": "Kiritoo",
+                      "user": {
+                        "discriminator": "6875ee90"
+                      }
+                    },
+                    {
+                      "gamerTag": "Klein",
+                      "user": {
+                        "discriminator": "21fe4a61"
+                      }
+                    },
+                    {
+                      "gamerTag": "4u",
+                      "user": {
+                        "discriminator": "5e6a9cf3"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 7,
+                "entrant": {
+                  "name": "D€¥!£ Br0TH€R$",
+                  "participants": [
+                    {
+                      "gamerTag": "AlonePrince",
+                      "user": {
+                        "discriminator": "e853d850"
+                      }
+                    },
+                    {
+                      "gamerTag": "DipanshYt",
+                      "user": {
+                        "discriminator": "332e9d33"
+                      }
+                    },
+                    {
+                      "gamerTag": "chomu",
+                      "user": {
+                        "discriminator": "40628584"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "Rizz Junction",
+                  "participants": [
+                    {
+                      "gamerTag": "Jaddboi",
+                      "user": {
+                        "discriminator": "43fb67f7"
+                      }
+                    },
+                    {
+                      "gamerTag": "Hanzboi",
+                      "user": {
+                        "discriminator": "5450dbc7"
+                      }
+                    },
+                    {
+                      "gamerTag": "caprisunn",
+                      "user": {
+                        "discriminator": "c4177862"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "Falcon Warriors",
+                  "participants": [
+                    {
+                      "gamerTag": "SkyWarrior_YT",
+                      "user": {
+                        "discriminator": "4f40b431"
+                      }
+                    },
+                    {
+                      "gamerTag": "kpms7k",
+                      "user": {
+                        "discriminator": "3ccadf18"
+                      }
+                    },
+                    {
+                      "gamerTag": "TitanX",
+                      "user": {
+                        "discriminator": "74ea1602"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "standing": 9,
+                "entrant": {
+                  "name": "Brawlers",
+                  "participants": [
+                    {
+                      "gamerTag": "Ansh111",
+                      "user": {
+                        "discriminator": "6e8880f3"
+                      }
+                    },
+                    {
+                      "gamerTag": "Izanagi",
+                      "user": {
+                        "discriminator": "b3a4c628"
+                      }
+                    },
+                    {
+                      "gamerTag": "Izanami",
+                      "user": {
+                        "discriminator": "e1cca23c"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "standings": {
+      "40628584": {
+        "name": "chomu",
+        "points": 11.376805555555556,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "ids": [
+        "8097f550",
+        "da112d0d",
+        "7537deb8",
+        "1cc2c7ad",
+        "91b92cdd",
+        "7442729c",
+        "5e6a9cf3",
+        "239ce7de",
+        "289e0c97",
+        "c2e270f0",
+        "708554ed",
+        "508bc25d",
+        "7513ad00",
+        "291c577d",
+        "c4a3d320",
+        "6ea39049",
+        "4e0ab794",
+        "3f783476",
+        "dd200b6d",
+        "4fb1a86a",
+        "de000cb8",
+        "00c9d361",
+        "8b959568",
+        "9e4e4cf1",
+        "1259e4ca",
+        "e804f85d",
+        "87f0de4c",
+        "102f6a81",
+        "6875ee90",
+        "21fe4a61",
+        "e853d850",
+        "332e9d33",
+        "40628584",
+        "43fb67f7",
+        "5450dbc7",
+        "c4177862",
+        "4f40b431",
+        "3ccadf18",
+        "74ea1602",
+        "6e8880f3",
+        "b3a4c628",
+        "e1cca23c"
+      ],
+      "1cc2c7ad": {
+        "name": "himwy",
+        "points": 44.20305555555555,
+        "t1": 1,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "91b92cdd": {
+        "name": "Serenity",
+        "points": 44.20305555555555,
+        "t1": 1,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "239ce7de": {
+        "name": "ero",
+        "points": 31.95111111111111,
+        "t1": 1,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "8097f550": {
+        "name": "Hichou",
+        "points": 44.517291666666665,
+        "t1": 0,
+        "t2": 2,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "da112d0d": {
+        "name": "Astru",
+        "points": 44.517291666666665,
+        "t1": 0,
+        "t2": 2,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "7537deb8": {
+        "name": "Flexy",
+        "points": 44.517291666666665,
+        "t1": 0,
+        "t2": 2,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "7442729c": {
+        "name": "Yunpyo",
+        "points": 43.95638888888889,
+        "t1": 1,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "289e0c97": {
+        "name": "Glaedr",
+        "points": 29.954166666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "c2e270f0": {
+        "name": "Kevin1185",
+        "points": 29.954166666666666,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "708554ed": {
+        "name": "Erol",
+        "points": 28.955694444444443,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "5e6a9cf3": {
+        "name": "4u",
+        "points": 40.332499999999996,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 2,
+        "t16": 0
+      },
+      "508bc25d": {
+        "name": "kryptonite_boi",
+        "points": 28.955694444444443,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "7513ad00": {
+        "name": "JJF",
+        "points": 27.95722222222222,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "291c577d": {
+        "name": "SKS",
+        "points": 27.95722222222222,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "c4a3d320": {
+        "name": "Ripplash",
+        "points": 27.95722222222222,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "6ea39049": {
+        "name": "tsunade",
+        "points": 27.95722222222222,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "4e0ab794": {
+        "name": "KeithThePooPoo",
+        "points": 14.002222222222223,
+        "t1": 1,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "3f783476": {
+        "name": "Snowball <3",
+        "points": 14.002222222222223,
+        "t1": 1,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 0
+      },
+      "dd200b6d": {
+        "name": "Reaper",
+        "points": 13.127083333333333,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "4fb1a86a": {
+        "name": "DoubleJ_",
+        "points": 13.127083333333333,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "de000cb8": {
+        "name": "GTG",
+        "points": 13.127083333333333,
+        "t1": 0,
+        "t2": 0,
+        "t3": 1,
+        "t8": 0,
+        "t16": 0
+      },
+      "00c9d361": {
+        "name": "zosu",
+        "points": 12.68951388888889,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "8b959568": {
+        "name": "noot",
+        "points": 12.68951388888889,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "9e4e4cf1": {
+        "name": "taxiivation",
+        "points": 12.68951388888889,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "1259e4ca": {
+        "name": "jerryK",
+        "points": 12.251944444444444,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "e804f85d": {
+        "name": "Something",
+        "points": 12.251944444444444,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "87f0de4c": {
+        "name": "Roody",
+        "points": 12.251944444444444,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "102f6a81": {
+        "name": "Denze",
+        "points": 12.251944444444444,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "6875ee90": {
+        "name": "Kiritoo",
+        "points": 11.376805555555556,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "21fe4a61": {
+        "name": "Klein",
+        "points": 11.376805555555556,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "e853d850": {
+        "name": "AlonePrince",
+        "points": 11.376805555555556,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "332e9d33": {
+        "name": "DipanshYt",
+        "points": 11.376805555555556,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 1,
+        "t16": 0
+      },
+      "43fb67f7": {
+        "name": "Jaddboi",
+        "points": 10.501666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "5450dbc7": {
+        "name": "Hanzboi",
+        "points": 10.501666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "c4177862": {
+        "name": "caprisunn",
+        "points": 10.501666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "4f40b431": {
+        "name": "SkyWarrior_YT",
+        "points": 10.501666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "3ccadf18": {
+        "name": "kpms7k",
+        "points": 10.501666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "74ea1602": {
+        "name": "TitanX",
+        "points": 10.501666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "6e8880f3": {
+        "name": "Ansh111",
+        "points": 10.501666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "b3a4c628": {
+        "name": "Izanagi",
+        "points": 10.501666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      },
+      "e1cca23c": {
+        "name": "Izanami",
+        "points": 10.501666666666667,
+        "t1": 0,
+        "t2": 0,
+        "t3": 0,
+        "t8": 0,
+        "t16": 1
+      }
+    },
+    "guildid": "641355147049697280",
+    "channelid": "1074779933747990759",
+    "messageid": "1074780178619834468",
+    "latestTourney": 1675627200
+  }
+}
